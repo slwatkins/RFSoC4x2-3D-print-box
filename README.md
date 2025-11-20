@@ -1,5 +1,5 @@
 # RFSoC-3D-print-box
-A parameterised box for the RFSoC 4x2, made with Autodesk Fusion.
+A parametetrically designed box for the RFSoC 4x2, made with Autodesk Fusion.
 Has M3 heatset inserts for board mounting, and lid fastening.
 
 We print our boxes with PETG-CF on a Bambu Lab H2S. PLA is not recommended due to the heat the RFSoC board produces.
