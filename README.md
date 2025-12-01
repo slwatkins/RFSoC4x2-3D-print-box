@@ -13,5 +13,9 @@ Designed for heat set M3 inserts with 4.1mm hole diameter, and 5.8mm length.
 Extra holes on front panel are for insulated 50 ohm BNC Panel Mount Socket - Solder Termination.
 
 ![RFSoC box assembly GIF](./fusion_pingpong_slow.gif)
+![Birdseye](./birdseye.jpg)
+![empty](./cornerempty.jpg)
+![full](./cornerfull.jpg)
+![withlid](./cornercomplete.jpg)
 
  Copyright (C) 2025 Tom Hepworth
